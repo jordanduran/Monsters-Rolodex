@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from '../card/Card';
-import './Card-list.css';
+import './CardList.css';
 
 export const CardList = props => {
   console.log(props);
